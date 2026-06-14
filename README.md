@@ -7,3 +7,5 @@ This is a minimal `Hello World` example using [Spring]
 3. Change into project directory: `cd minimal-java-spring-ap`
 4. Start the app: `mvn spring-boot:run `
 6. Navigate your browser to `http://127.0.0.1:8000/` to see basic example using `HttpResponse`
+
+.
